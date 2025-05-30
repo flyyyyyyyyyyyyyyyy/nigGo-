@@ -1,3 +1,2 @@
 # nigGo
-our revival of forgotten search engine
-** ** niGo
+our revival of forgotten search engine project never public since 2024
